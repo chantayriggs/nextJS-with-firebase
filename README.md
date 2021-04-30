@@ -4,8 +4,6 @@ This repo contains the followng actions implemented:
   - popup auth flow
   - email + password
   - Google OAuth
-  - Twitter OAuth
-  - GitHub OAuth
 - Cloud Firestore
   - read (examples for all availible data types)
   - write
